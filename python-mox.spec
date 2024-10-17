@@ -3,7 +3,7 @@
 Name:           python-%{module}
 Version:        0.5.3
 Release:        2
-Url:            http://code.google.com/p/pymox/
+Url:            https://code.google.com/p/pymox/
 Summary:        Mock object framework
 License:        Apache License, Version 2.0
 Group:          Development/Python
